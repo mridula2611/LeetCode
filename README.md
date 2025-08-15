@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mridula2611/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mridula2611/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mridula2611/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mridula2611/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mridula2611/LeetCode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/mridula2611/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mridula2611/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
