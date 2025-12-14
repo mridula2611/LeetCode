@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mridula2611/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mridula2611/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mridula2611/LeetCode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/mridula2611/LeetCode/tree/master/2235-add-two-integers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mridula2611/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
