@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/mridula2611/LeetCode/tree/master/0476-number-complement) |
 ## Number Theory
 |  |
 | ------- |
