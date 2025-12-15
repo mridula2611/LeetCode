@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mridula2611/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mridula2611/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mridula2611/LeetCode/tree/master/1025-divisor-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/mridula2611/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mridula2611/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
