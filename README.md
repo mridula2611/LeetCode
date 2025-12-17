@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/mridula2611/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/mridula2611/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/1013-fibonacci-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mridula2611/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/mridula2611/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/mridula2611/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mridula2611/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
