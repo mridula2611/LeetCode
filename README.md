@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/mridula2611/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/mridula2611/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/mridula2611/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2652-sum-multiples](https://github.com/mridula2611/LeetCode/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
