@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mridula2611/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mridula2611/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mridula2611/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/mridula2611/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mridula2611/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mridula2611/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/mridula2611/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mridula2611/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
