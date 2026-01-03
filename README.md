@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mridula2611/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mridula2611/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/mridula2611/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mridula2611/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mridula2611/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/mridula2611/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mridula2611/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridula2611/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/mridula2611/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mridula2611/LeetCode/tree/master/1025-divisor-game) |
