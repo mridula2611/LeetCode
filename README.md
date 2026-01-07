@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mridula2611/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mridula2611/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridula2611/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mridula2611/LeetCode/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mridula2611/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mridula2611/LeetCode/tree/master/0371-sum-of-two-integers) |
