@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mridula2611/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mridula2611/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mridula2611/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/mridula2611/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mridula2611/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mridula2611/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mridula2611/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/mridula2611/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/mridula2611/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mridula2611/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mridula2611/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mridula2611/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/mridula2611/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mridula2611/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mridula2611/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
