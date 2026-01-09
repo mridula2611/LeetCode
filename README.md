@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mridula2611/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mridula2611/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/mridula2611/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mridula2611/LeetCode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mridula2611/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
