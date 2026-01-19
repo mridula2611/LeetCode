@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/mridula2611/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/mridula2611/LeetCode/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/mridula2611/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mridula2611/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/mridula2611/LeetCode/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/mridula2611/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mridula2611/LeetCode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mridula2611/LeetCode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/mridula2611/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mridula2611/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/mridula2611/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
