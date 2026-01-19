@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/mridula2611/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/mridula2611/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mridula2611/LeetCode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mridula2611/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mridula2611/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mridula2611/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/mridula2611/LeetCode/tree/master/0507-perfect-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mridula2611/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mridula2611/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mridula2611/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mridula2611/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/mridula2611/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mridula2611/LeetCode/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/mridula2611/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mridula2611/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/mridula2611/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mridula2611/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/mridula2611/LeetCode/tree/master/0476-number-complement) |
 ## Number Theory
 |  |
