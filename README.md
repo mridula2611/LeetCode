@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/mridula2611/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/mridula2611/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/mridula2611/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/mridula2611/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/mridula2611/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mridula2611/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/0509-fibonacci-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/mridula2611/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mridula2611/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/mridula2611/LeetCode/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
