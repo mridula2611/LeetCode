@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mridula2611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mridula2611/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mridula2611/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/mridula2611/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/mridula2611/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridula2611/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mridula2611/LeetCode/tree/master/0136-single-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mridula2611/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mridula2611/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mridula2611/LeetCode/tree/master/0415-add-strings) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mridula2611/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/mridula2611/LeetCode/tree/master/0867-transpose-matrix) |
 ## Backtracking
 |  |
