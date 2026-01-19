@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mridula2611/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mridula2611/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mridula2611/LeetCode/tree/master/0258-add-digits) |
+| [0313-super-ugly-number](https://github.com/mridula2611/LeetCode/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/mridula2611/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mridula2611/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/mridula2611/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridula2611/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mridula2611/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mridula2611/LeetCode/tree/master/0217-contains-duplicate) |
+| [0313-super-ugly-number](https://github.com/mridula2611/LeetCode/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mridula2611/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/mridula2611/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mridula2611/LeetCode/tree/master/0792-binary-search) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mridula2611/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/mridula2611/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mridula2611/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0313-super-ugly-number](https://github.com/mridula2611/LeetCode/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/mridula2611/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/mridula2611/LeetCode/tree/master/1013-fibonacci-number) |
